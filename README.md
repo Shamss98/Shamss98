@@ -36,11 +36,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
 
-<div>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWw4dXE1Zmc5bHJlcTcybjA5cWhxaGc3empiMm9yd2xjOHRuYzJkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif" width="50%" />
+<p align="center">
+  <img src="https://media1.giphy.com/media/hQKiGV6MG8WmsHg2yx/giphy.gif" width="45%" />
+  <img src="https://media2.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="45%" />
+</p>
 
-</div>
+
 
 
 
