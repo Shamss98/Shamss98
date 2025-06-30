@@ -51,18 +51,6 @@
 
 
 
-  
-
-
-
-
-
-</p>
-
-
-</p>
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/dist/github-contribution-grid-snake.svg)
 
 
 
