@@ -16,5 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/dist/github-contribution-grid-snake.svg)
+
 
 
