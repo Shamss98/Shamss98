@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shamss98/shamss98/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
