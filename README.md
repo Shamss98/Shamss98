@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://media1.giphy.com/media/hQKiGV6MG8WmsHg2yx/giphy.gif" width="45%" />
-  <img src="https://media2.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="45%" />
+  <img src="https://media0.giphy.com/media/iJJ6E58EttmFqgLo96/giphy.gif" width="45%" />
 </p>
 
 
